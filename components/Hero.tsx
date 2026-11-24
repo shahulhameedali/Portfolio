@@ -5,7 +5,6 @@ const TITLES = [
   "Data Scientist",
   "Machine Learning",
   "Python Developer",
-  "Power BI Analyst",
 ];
 
 export default function Hero() {
@@ -57,7 +56,7 @@ export default function Hero() {
 
         {/* Sub text */}
         <p className="text-gray-500 dark:text-gray-400 max-w-xl mx-auto text-lg leading-relaxed">
-          Turning raw data into decisions. Building intelligent systems from scratch.
+          Turning raw data into decisions. Building Models from scratch.
         </p>
 
         {/* CTAs */}
@@ -73,7 +72,7 @@ export default function Hero() {
             download
             className="px-6 py-3 rounded-xl border border-gray-300 dark:border-gray-700 text-gray-700 dark:text-gray-300 font-semibold hover:border-blue-500 hover:text-blue-500 dark:hover:border-blue-500 dark:hover:text-blue-400 transition-all duration-200 hover:-translate-y-0.5"
           >
-            Download Resume
+            Resume
           </a>
         </div>
 
